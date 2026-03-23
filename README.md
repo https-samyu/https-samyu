@@ -1,19 +1,19 @@
 # Projeto-perfil
 
-** Repositório teste **
+Repositório teste
 
 # Me
 
-Software Engineering - Student 
-Cybersecurity Enthusiast 
-Full-Stack Developer
+Software Engineering - Student | 
+Cybersecurity Enthusiast | 
+Full-Stack Developer |
 
 # Stack
 
-HTML & CSS
-JavaScript
+HTML & CSS, 
+JavaScript, 
 C# - Python - Java - C++
-PHP - SQL
+PHP - SQL.
 
 # Contact
 
